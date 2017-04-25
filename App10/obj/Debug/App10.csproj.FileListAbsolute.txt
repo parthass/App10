@@ -1,0 +1,6 @@
+D:\Partha Work 2017\App10\App10\App10\bin\Debug\App10.dll
+D:\Partha Work 2017\App10\App10\App10\bin\Debug\App10.pdb
+D:\Partha Work 2017\App10\App10\App10\obj\Debug\App10.dll
+D:\Partha Work 2017\App10\App10\App10\obj\Debug\App10.pdb
+D:\Partha Work 2017\App10\App10\App10\obj\Debug\App10.dll.mdb
+D:\Partha Work 2017\App10\App10\App10\bin\Debug\App10.dll.mdb
